@@ -1,0 +1,11 @@
+
+---
+
+## 2) `requirements.txt`
+
+```txt
+streamlit
+numpy
+pandas
+matplotlib
+pillow
